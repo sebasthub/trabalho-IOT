@@ -12,9 +12,9 @@
 </ul>
 <h3>esquematica do projeto</h3>
 <p>lembrando que a camera usb deve estar conectada</p>
-<img src="https://ibb.co/6wG10sy"/>
+<a href="https://ibb.co/6wG10sy"><img src="https://i.ibb.co/kBz92cG/tranca-de-porta-por-qr-code-bb.png" alt="tranca-de-porta-por-qr-code-bb" border="0"></a>
 <h3>imagem do projeto real</h3>
-<img src="https://ibb.co/TYLP5rb"/>
+<a href="https://ibb.co/TYLP5rb"><img src="https://i.ibb.co/PFQ18t9/Whats-App-Image-2023-11-30-at-22-35-58-be785807.jpg" alt="Whats-App-Image-2023-11-30-at-22-35-58-be785807" border="0"></a>
 <h3>video de funcionamento</h3>
 <a href="https://youtube.com/shorts/Ty124AR1RW8?si=NJAoZCAlO6ySmaT2"><img src="https://www.shareicon.net/data/2015/09/04/95565_yt_512x512.png"/></a>
 <h3>comandos para rodar</h3>
