@@ -12,11 +12,11 @@
 </ul>
 <h3>esquematica do projeto</h3>
 <p>lembrando que a camera usb deve estar conectada</p>
-[<img src="[https://drive.google.com/file/d/1NpUyrGDdsEfAYfYruMvTUQJVObC5iHXO/view?usp=drive_link](https://drive.google.com/file/d/1NpUyrGDdsEfAYfYruMvTUQJVObC5iHXO/view?usp=sharing)"/>](https://drive.google.com/file/d/1NpUyrGDdsEfAYfYruMvTUQJVObC5iHXO/view?usp=sharing)
+<img src="[https://drive.google.com/file/d/1NpUyrGDdsEfAYfYruMvTUQJVObC5iHXO/view?usp=drive_link](https://drive.google.com/file/d/1NpUyrGDdsEfAYfYruMvTUQJVObC5iHXO/view?usp=sharing)"/>
 <h3>imagem do projeto real</h3>
-[<img src="[https://drive.google.com/file/d/1k9IkO-3masJPLzr4qooojfD_3AMwuyLg/view?usp=drive_link](https://drive.google.com/file/d/1k9IkO-3masJPLzr4qooojfD_3AMwuyLg/view?usp=sharing)"/>](https://drive.google.com/file/d/1k9IkO-3masJPLzr4qooojfD_3AMwuyLg/view?usp=sharing)
+<img src="[https://drive.google.com/file/d/1k9IkO-3masJPLzr4qooojfD_3AMwuyLg/view?usp=drive_link](https://drive.google.com/file/d/1k9IkO-3masJPLzr4qooojfD_3AMwuyLg/view?usp=sharing)"/>
 <h3>video de funcionamento</h3>
-[<a href="https://youtube.com/shorts/Ty124AR1RW8?si=NJAoZCAlO6ySmaT2"><img src="[https://img.freepik.com/premium-vector/free-vector-youtube-icon-logo-social-media-logo_901408-454.jpg?w=2000](https://www.shareicon.net/data/2015/09/04/95565_yt_512x512.png)"/></a>](https://www.shareicon.net/data/2015/09/04/95565_yt_512x512.png)
+<a href="https://youtube.com/shorts/Ty124AR1RW8?si=NJAoZCAlO6ySmaT2"><img src="https://www.shareicon.net/data/2015/09/04/95565_yt_512x512.png"/></a>
 <h3>comandos para rodar</h3>
 <h4>rode os comandos na rapiberry py 3b</h4>
 <h5>comando para clonar o repo</h5>
